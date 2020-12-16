@@ -1,4 +1,4 @@
-<h1>Sup human this is my programming profile!</h2>
+<h1>Sup World! Welcome to my programming profile!</h2>
 <img src="https://youreno.fun/ghost-in-the-shell-typing.gif" width="1000">
 
 - 🔭 I’m currently working on learing to program.
