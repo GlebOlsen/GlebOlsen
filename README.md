@@ -6,8 +6,8 @@
 
 **Languages I use:**
 
-<code><img height="27" src="https://da.wikipedia.org/wiki/HTML5#/media/Fil:HTML5_logo_and_wordmark.svg"></code>
-<code><img height="27" src="https://en.wikipedia.org/wiki/CSS#/media/File:CSS3_logo_and_wordmark.svg"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="27" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"></code>
 <code><img height="27" src="https://docs.microsoft.com/en-us/windows/images/csharp-logo.png"></code>
