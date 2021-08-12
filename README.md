@@ -30,6 +30,7 @@
 <code><a href = "https://www.python.org/"><img height="35" src="https://www.python.org/static/opengraph-icon-200x200.png"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/SQL"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="35" src="https://styles.redditmedia.com/t5_2qh2d/styles/communityIcon_xagsn9nsaih61.png?width=256&s=1e4cf3a17c94aecf9c127cef47bb259162283a38"></a></code>
+<code><a href = "https://getbootstrap.com/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></a></code>
 
 **💾-Programs & Tools I use:**
 
@@ -43,17 +44,3 @@
 <code><a href = "https://www.putty.org/"><img height="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/53d9ae70251739.5b9d484cde8a2.jpg"></a></code>
 
 **My Desktop and Laptops:**
-<button class="accordion">Desktop</button>
-<div class="panel">
-  <p>test1</p>
-</div>
-
-<button class="accordion">Work Laptop</button>
-<div class="panel">
-  <p>test2</p>
-</div>
-
-<button class="accordion">Linux Laptop</button>
-<div class="panel">
-  <p>test3</p>
-</div>
