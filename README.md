@@ -45,6 +45,8 @@
 
 <h2>My Desktop and Laptops:</h2>
 
-<details><summary>Desktop:</summary><p>test1</p></details>
+<details><summary>Desktop:</summary><p>- ⏳ Right now: I'm studying at Zealand on my 4th semester and working on small projects.
+- 📖 2021/2022 goal: To learn as much as I can so that I can use my knowledge in practise.
+- 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!</p></details>
 <details><summary>Work Laptop:</summary><p>test2</p></details>
 <details><summary>Linux Laptop:</summary><p>test3</p></details>
