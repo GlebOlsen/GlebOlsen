@@ -43,32 +43,17 @@
 <code><a href = "https://www.putty.org/"><img height="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/53d9ae70251739.5b9d484cde8a2.jpg"></a></code>
 
 **My Desktop and Laptops:**
-<button type="button" class="collapsible">Desktop</button>
-<div class="content">
-  <p>test</p>
-</div>
-<button type="button" class="collapsible">Work Laprtop</button>
-<div class="content">
-  <p>test</p>
-</div>
-<button type="button" class="collapsible">Linux Laptop</button>
-<div class="content">
-  <p>test</p>
+<button class="accordion">Desktop</button>
+<div class="panel">
+  <p>test1</p>
 </div>
 
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
+<button class="accordion">Work Laptop</button>
+<div class="panel">
+  <p>test2</p>
+</div>
 
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
+<button class="accordion">Linux Laptop</button>
+<div class="panel">
+  <p>test3</p>
+</div>
