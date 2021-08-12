@@ -9,7 +9,7 @@
 
 <h2>Knowledge</h2>
 
-**📊📈Programming Methodologies I'm familiar with:**
+**📊📈 - Programming Methodologies I'm familiar with:**
 
 <p align="center">
 <a href="https://en.wikipedia.org/wiki/Extreme_programming">💢Extreme Programming (XP)💢 </a>
@@ -19,7 +19,7 @@
 </p>
 
 
-**📚-Languages I use:**
+**📚 - Languages I use:**
 
 <code><a href = "https://en.wikipedia.org/wiki/HTML5"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/CSS"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></a></code>
@@ -32,7 +32,7 @@
 <code><a href = "https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="35" src="https://styles.redditmedia.com/t5_2qh2d/styles/communityIcon_xagsn9nsaih61.png?width=256&s=1e4cf3a17c94aecf9c127cef47bb259162283a38"></a></code>
 <code><a href = "https://getbootstrap.com/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></a></code>
 
-**💾-Programs & Tools I use:**
+**💾 - Programs & Tools I use:**
 
 <code><a href = "https://visualstudio.microsoft.com/vs/enterprise/"><img height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"></a></code>
 <code><a href = "https://code.visualstudio.com/"><img height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png"></a></code>
@@ -43,4 +43,8 @@
 <code><a href = "https://www.postman.com/"><img height="35" src="https://crackedrar.com/wp-content/uploads/2019/05/56276.png"></a></code>
 <code><a href = "https://www.putty.org/"><img height="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/53d9ae70251739.5b9d484cde8a2.jpg"></a></code>
 
-**My Desktop and Laptops:**
+<h2>My Desktop and Laptops:</h2>
+
+<details><summary>Desktop:</summary><p>test1</p></details>
+<details><summary>Work Laptop:</summary><p>test2</p></details>
+<details><summary>Linux Laptop:</summary><p>test3</p></details>
