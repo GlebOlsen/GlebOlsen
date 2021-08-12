@@ -1,16 +1,17 @@
 <h1>Sup World! Welcome to my GitHub profile!</h1>
 <img src="https://youreno.fun/ghost-in-the-shell-typing.gif" width="1000">
+<br>
 
 <h1>About me:</h1>
 
 - ⏳ Right now: I'm studying at Zealand on my 4th semester and working on small projects.
 - 📖 2021/2022 goal: To learn as much as I can so that I can use my knowledge in practise.
 - 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!
+<br>
 
 <h2>Knowledge</h2>
 
 **📊📈 - Programming Methodologies I'm familiar with:**
-
 
 <p align="center" style="font-weight: bold;">
 <a href="https://en.wikipedia.org/wiki/Extreme_programming">💢Extreme Programming (XP)💢 </a>
@@ -19,8 +20,8 @@
 <a href="https://en.wikipedia.org/wiki/Waterfall_model"> 💧Waterfall💧</a>
 </p>
 
-
-
+<br>
+<br>
 **📚 - Languages I use:**
 
 <code><a href = "https://en.wikipedia.org/wiki/HTML5"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a></code>
@@ -44,7 +45,8 @@
 <code><a href = "https://git-scm.com/"><img height="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a></code>
 <code><a href = "https://www.postman.com/"><img height="35" src="https://crackedrar.com/wp-content/uploads/2019/05/56276.png"></a></code>
 <code><a href = "https://www.putty.org/"><img height="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/53d9ae70251739.5b9d484cde8a2.jpg"></a></code>
-
+<br>
+<br>
 <h2>My Desktop, Laptops and Tools:</h2>
 
 <details>
@@ -57,7 +59,7 @@
   			  <li>GTX 1660 Ti</li>
   				<li>GTX 750 Ti</li>
 			  </ol>
-  		<li><b>Memory/Ram:</b>2x 8GB 3600Mhz 16cl</li>
+  		<li><b>Memory/Ram:</b> 2x 8GB 3600Mhz 16cl</li>
       <li><b>Storage:</b> Samsung PM9A1: R6500MB W4900MB</li>
       <li><b>Extra Storage:</b> 500GB SSD, 120GB SSD, 500GB HDD</li>
       <li><b>Monitors:</b></li>
@@ -80,7 +82,7 @@
       <li><b>OS:</b> Windows 10 Enterpise</li>
   		<li><b>GPU and CPU:</b> R7 4700U</li>
   		<li><b>Memory/Ram:</b> 16GB 3200Mhz 22cl</li>
-      <li><b>Monitors:</b>15.6' 1080p 60Hz</li>
+      <li><b>Monitors:</b> 15.6' 1080p 60Hz</li>
 		  <li><b>Cooling:</b></li>
         <ul>
   				<li><b>Thermal Paste:</b> T.G. Kryonaut (GPU & CPU)</li>
@@ -94,7 +96,7 @@
       <li><b>OS:</b> Linux Mint</li>
   		<li><b>Processor/CPU:</b> Silver N5000</li>
   		<li><b>Memory/Ram:</b> 4GB 2400Mhz</li>
-      <li><b>Monitors:</b>14' 1080p 60Hz</li>
+      <li><b>Monitors:</b> 14' 1080p 60Hz</li>
 		  <li><b>Cooling:</b></li>
         <ul>
   				<li><b>Thermal Paste:</b> T.G. Kryonaut (GPU & CPU)</li>
@@ -106,6 +108,6 @@
   <summary style="font-weight: bold;">Tools:</summary>
     <ul>
   		<li><b>Raspberry PI 3b+</b> With 30mm fan and alu. heatsink with Kryonaut</li>
-  		<li><b>MalDuino Elite</b>2GB SD Card</li>
+  		<li><b>MalDuino Elite</b> 2GB SD Card</li>
 	  </ul>
 </details>
