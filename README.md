@@ -12,11 +12,12 @@
 **📊📈Programming Methodologies I'm familiar with:**
 
 <p align="center">
-<a href="https://en.wikipedia.org/wiki/Extreme_programming">💢Extreme Programming (XP) </a>
-<a href="https://en.wikipedia.org/wiki/Scrum_(software_development)">🔄Scrum </a>
-<a href="https://en.wikipedia.org/wiki/DevOps">♾DevOps </a>
-<a href="https://en.wikipedia.org/wiki/Waterfall_model">💧Waterfall</a>
+<a href="https://en.wikipedia.org/wiki/Extreme_programming">💢Extreme Programming (XP)💢 </a>
+<a href="https://en.wikipedia.org/wiki/Scrum_(software_development)"> 🔄Scrum🔄 </a>
+<a href="https://en.wikipedia.org/wiki/DevOps"> ♾DevOps♾ </a>
+<a href="https://en.wikipedia.org/wiki/Waterfall_model"> 💧Waterfall💧</a>
 </p>
+
 
 **📚-Languages I use:**
 
@@ -32,13 +33,42 @@
 
 **💾-Programs & Tools I use:**
 
-<code><a href = ""><img height="35" src=""></a></code>
-<code><a href = ""><img height="35" src=""></a></code>
-<code><a href = ""><img height="35" src=""></a></code>
-<code><a href = ""><img height="35" src=""></a></code>
-<code><a href = ""><img height="35" src=""></a></code>
-<code><a href = ""><img height="35" src=""></a></code>
-<code><a href = ""><img height="35" src=""></a></code>
-<code><a href = ""><img height="35" src=""></a></code>
-<code><a href = ""><img height="35" src=""></a></code>
-<code><a href = ""><img height="35" src=""></a></code>
+<code><a href = "https://visualstudio.microsoft.com/vs/enterprise/"><img height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"></a></code>
+<code><a href = "https://code.visualstudio.com/"><img height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png"></a></code>
+<code><a href = "https://www.jetbrains.com/resharper/"><img height="35" src="https://resources.jetbrains.com/storage/products/resharper/img/meta/resharper_logo_300x300.png"></a></code>
+<code><a href = "https://winscp.net/eng/download.php"><img height="35" src="https://winscp-static-746341.c.cdn77.org/assets/images/logos/logo.png?v=6985"></a></code>
+<code><a href = "https://www.vim.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png"></a></code>
+<code><a href = "https://git-scm.com/"><img height="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a></code>
+<code><a href = "https://www.postman.com/"><img height="35" src="https://crackedrar.com/wp-content/uploads/2019/05/56276.png"></a></code>
+<code><a href = "https://www.putty.org/"><img height="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/53d9ae70251739.5b9d484cde8a2.jpg"></a></code>
+
+**My Desktop and Laptops:**
+<button type="button" class="collapsible">Desktop</button>
+<div class="content">
+  <p>test</p>
+</div>
+<button type="button" class="collapsible">Work Laprtop</button>
+<div class="content">
+  <p>test</p>
+</div>
+<button type="button" class="collapsible">Linux Laptop</button>
+<div class="content">
+  <p>test</p>
+</div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
