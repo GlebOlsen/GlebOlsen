@@ -7,11 +7,11 @@
 - 📖 2021/2022 goal: To learn as much as I can so that I can use my knowledge in practise.
 - 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!
 
-<h2>**Knowledge**</h2>
+<h2>Knowledge</h2>
 
 **📊📈Programming Methodologies I'm familiar with:**
 
-<p style="text-aling:center;">
+<p align="center">
 <a href="https://en.wikipedia.org/wiki/Extreme_programming">💢Extreme Programming (XP) </a>
 <a href="https://en.wikipedia.org/wiki/Scrum_(software_development)">🔄Scrum </a>
 <a href="https://en.wikipedia.org/wiki/DevOps">♾DevOps </a>
