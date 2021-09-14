@@ -94,7 +94,7 @@
 <details>
   <summary style="font-weight: bold;">Linux Laptop:</summary>
     <ul>
-      <li><b>OS:</b> Linux Mint</li>
+      <li><b>OS:</b> Kali Linux</li>
   		<li><b>Processor/CPU:</b> Silver N5000</li>
   		<li><b>Memory/Ram:</b> 4GB 2400Mhz</li>
       <li><b>Monitors:</b> 14' 1080p 60Hz</li>
