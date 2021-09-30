@@ -11,7 +11,7 @@
 
 <h2>Knowledge</h2>
 
-**📊 - Programming Methodologies I'm familiar with:
+**📊 - Programming Methodologies I'm familiar with:**
 
 <p align="center" style="font-weight: bold;">
 <a href="https://en.wikipedia.org/wiki/Extreme_programming">💢Extreme Programming (XP)💢 </a>
@@ -21,7 +21,7 @@
 </p>
 <br>
 
-**📈 - Programming I'm familiar with:
+**📈 - Programming I'm familiar with:**
 - C# UWP App dvelopment.
 - WebApp development.
 - IOT development
