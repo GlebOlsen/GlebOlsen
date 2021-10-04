@@ -27,7 +27,7 @@
 - IOT development
 - Mobile App development.
 - Security.
-- Mashine learning.
+- Machine learning.
 
 <br>
 <br>
