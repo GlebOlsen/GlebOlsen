@@ -29,12 +29,22 @@
 - Security.
 - Machine learning.
 
-<br>
-<br>
+<hr>
 
 **📚 - Languages I use:**
 
-<code><a href = "https://en.wikipedia.org/wiki/HTML5"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a></code>
+
+
+**💾 - Programs & Tools I use:**
+
+
+
+<h2>📝 Languages and Programs/Tools </h2>
+<table>
+  <tr>
+    <td valign="top">
+      <h3></h3>
+      	<code><a href = "https://en.wikipedia.org/wiki/HTML5"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/CSS"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/JavaScript"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
 <code><a href = "https://vuejs.org/"><img height="35" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"></a></code>
@@ -44,9 +54,10 @@
 <code><a href = "https://en.wikipedia.org/wiki/SQL"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="35" src="https://styles.redditmedia.com/t5_2qh2d/styles/communityIcon_xagsn9nsaih61.png?width=256&s=1e4cf3a17c94aecf9c127cef47bb259162283a38"></a></code>
 <code><a href = "https://getbootstrap.com/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></a></code>
+    </td>
 
-**💾 - Programs & Tools I use:**
-
+     <td valign="top">
+      <h3>Programs </h3>
 <code><a href = "https://visualstudio.microsoft.com/vs/enterprise/"><img height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"></a></code>
 <code><a href = "https://code.visualstudio.com/"><img height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png"></a></code>
 <code><a href = "https://www.jetbrains.com/resharper/"><img height="35" src="https://resources.jetbrains.com/storage/products/resharper/img/meta/resharper_logo_300x300.png"></a></code>
@@ -55,7 +66,12 @@
 <code><a href = "https://git-scm.com/"><img height="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a></code>
 <code><a href = "https://www.postman.com/"><img height="35" src="https://crackedrar.com/wp-content/uploads/2019/05/56276.png"></a></code>
 <code><a href = "https://www.putty.org/"><img height="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/53d9ae70251739.5b9d484cde8a2.jpg"></a></code>
-<br>
+<hr>
+        </td>
+  </tr>
+</table>
+
+
 <br>
 <h2>My Desktop, Laptops and Tools:</h2>
 
