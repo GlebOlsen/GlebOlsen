@@ -1,8 +1,14 @@
 <h1>Sup World! Welcome to my GitHub profile!</h1>
 <h1>About me:</h1>
 <br>
+<!DOCTYPE html>
+<html>
+
+<body>
+
+
 <div>
-    <p style="float: Right;"><img src="https://youreno.fun/ghost-in-the-shell-typing.gif" height="50px" border="1px"></p>
+    <p style="float: Right;"><img src="https://youreno.fun/ghost-in-the-shell-typing.gif" height="200" border="1px"></p>
 </div>
 <div style="clear: left;">
     <p>- ⏳ Right now: I'm studying at Zealand on my 4th semester and working on small projects.</p>
@@ -10,6 +16,9 @@
     <p>- 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!</p>
     
 </div>
+
+</body>
+</html>
 
 
 
