@@ -20,7 +20,7 @@
 <a href="https://en.wikipedia.org/wiki/Waterfall_model"> 💧Waterfall💧</a>
 </p>
 
-<br>
+<hr>
 
 <table>
   <tr>
