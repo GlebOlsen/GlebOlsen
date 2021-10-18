@@ -20,7 +20,7 @@
 <a href="https://en.wikipedia.org/wiki/Waterfall_model"> 💧Waterfall💧</a>
 </p>
 
-<h2>My programming experience:</h2>
+<h3>My programming experience:</h3>
 
 <table>
   <tr>
