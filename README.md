@@ -8,6 +8,7 @@
 - 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!
    
 <br>
+<br>
 
 <h2>Knowledge</h2>
 
@@ -20,7 +21,7 @@
 <a href="https://en.wikipedia.org/wiki/Waterfall_model"> 💧Waterfall💧</a>
 </p>
 
-<hr>
+<h2>💻 - My programming experience:</h2>
 
 <table>
   <tr>
