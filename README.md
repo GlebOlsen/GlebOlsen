@@ -1,6 +1,6 @@
 <h1>Sup World! Welcome to my GitHub profile!</h1>
 <h1>About me:</h1>
-<table style="border:0px transparent;">
+<table style="background-color:rgba(0, 0, 0, 0);">
 	<tr>
 		<th>
 - ⏳ Right now: I'm studying at Zealand on my 4th semester and working on small projects.
