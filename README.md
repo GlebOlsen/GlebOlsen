@@ -19,7 +19,7 @@
 <a href="https://en.wikipedia.org/wiki/DevOps"> ♾DevOps♾ </a>
 <a href="https://en.wikipedia.org/wiki/Waterfall_model"> 💧Waterfall💧</a>
 </p>
-
+<hr>
 **💻 - My programming experience:**
 
 <table>
