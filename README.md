@@ -9,7 +9,7 @@
    
 <br>
 
-<h2>Knowledge</h2>
+<h2>Knowledge:</h2>
 
 **📊 - Programming Methodologies I'm familiar with:**
 
@@ -20,7 +20,7 @@
 <a href="https://en.wikipedia.org/wiki/Waterfall_model"> 💧Waterfall💧</a>
 </p>
 
-<h3>My programming experience:</h3>
+<h2>My programming experience:</h2>
 
 <table>
   <tr>
