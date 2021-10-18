@@ -1,11 +1,6 @@
 <h1>Sup World! Welcome to my GitHub profile!</h1>
 <h1>About me:</h1>
 <br>
-<!DOCTYPE html>
-<html>
-
-<body>
-
 
 <img align="right" alt="GIF" src="https://youreno.fun/ghost-in-the-shell-typing.gif" width="400"/>
 
@@ -13,6 +8,7 @@
 - 📖 2021/2022 goal: To learn as much as possible so that I can use my knowledge in practice.
 - 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!
    
+<br>
 
 <h2>Knowledge</h2>
 
