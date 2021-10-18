@@ -53,7 +53,7 @@
 <code><a href = "https://www.putty.org/"><img height="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/53d9ae70251739.5b9d484cde8a2.jpg"></a></code>
 <code><a href = "https://winscp.net/eng/download.php"><img height="35" src="https://winscp-static-746341.c.cdn77.org/assets/images/logos/logo.png?v=6985"></a></code>
 <code><a href = "https://www.vim.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png"></a></code>
-<code><a href = "https://azure.microsoft.com/en-us/"><img height="35" src="https://en.wikipedia.org/wiki/Microsoft_Azure#/media/File:Microsoft_Azure.svg"></a></code>
+<code><a href = "https://azure.microsoft.com/en-us/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg"></a></code>
 <code><a href = "https://firebase.google.com/"><img height="35" src="https://media-thumbs.golden.com/dicg-bjat2y9UulHJiXz3ElW3Ww=/200x200/smart/golden-media.s3.amazonaws.com%2Ftopic_images%2Fccdf39280f544140911153227860de35.png"></a></code>
     </td>
   </tr>
@@ -71,8 +71,8 @@
   <tr>
     <td>Android Development:</td>
     <td> 
-<code><a href = "https://kotlinlang.org/"><img height="35" src="https://zh.wikipedia.org/wiki/Kotlin#/media/File:Kotlin_Icon.svg"></a></code>
-<code><a href = "https://en.wikipedia.org/wiki/XML"><img height="35" src="https://en.wikipedia.org/wiki/XML#/media/File:Extensible_Markup_Language_(XML)_logo.svg"></a></code>  
+<code><a href = "https://kotlinlang.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/XML"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Extensible_Markup_Language_%28XML%29_logo.svg"></a></code>  
     </td>
     <td> 
 <code><a href = "https://developer.android.com/studio"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg"></a></code>
@@ -93,12 +93,11 @@
     <td>Cyber Security:</td>
     <td>
 <code><a href = "https://docs.hak5.org/hc/en-us/articles/360010555153-Ducky-Script-the-USB-Rubber-Ducky-language"><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9nMn1DoROY5zOa86x4pQR5PvU-EWVvhDGNeVipNuycbL4oNY87zJY9mBDJ9jxK7DR4wQ&usqp=CAU"></a></code>
-<code><a href = " "><img height="35" src=" "></a></code>
     </td>
     <td> 
 <code><a href = "https://www.autohotkey.com/"><img height="35" src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png"></a></code>
-<code><a href = "https://www.cryptool.org/en/ct1/"><img height="35" src=" "></a></code>
-<code><a href = "https://www.cryptool.org/en/ct2/"><img height="35" src=" "></a></code>
+<code><a href = "https://www.cryptool.org/en/ct1/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ct-logo-big.png/220px-Ct-logo-big.png"></a></code>
+<code><a href = "https://www.cryptool.org/en/ct2/"><img height="35" src="https://www.cryptool.org/assets/site/img/layout/area-icons/ct2-icon.svg"></a></code>
 <code><a href = "https://www.kali.org/"><img height="35" src="https://w7.pngwing.com/pngs/600/114/png-transparent-dragon-kali-linux-android-linux-logo-silhouette-linux-thumbnail.png"></a></code>
 <code><a href = "https://www.wireshark.org/"><img height="35" src="https://www.wireshark.org/assets/images/sflogo.png"></a></code>
 <code><a href = "https://www.virtualbox.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></a></code>
@@ -109,7 +108,7 @@
   <tr>
     <td>IOT Development:</td>
     <td>
-<code><a href = "https://en.wikipedia.org/wiki/C%2B%2B"><img height="35" src="https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/C%2B%2B"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></a></code>
     </td>
     <td> 
 <code><a href = "https://www.arduino.cc/"><img height="35" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></a></code>
