@@ -5,7 +5,7 @@
 <h1>About me:</h1>
 
 - ⏳ Right now: I'm studying at Zealand on my 4th semester and working on small projects.
-- 📖 2021/2022 goal: To learn as much as I can so that I can use my knowledge in practise.
+- 📖 2021/2022 goal: To learn as much as possible so that I can use my knowledge in practice.
 - 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!
 <br>
 
