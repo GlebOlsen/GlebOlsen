@@ -2,7 +2,7 @@
 <h1>About me:</h1>
 <br>
 <div>
-    <p style="float: Right;"><img src="https://youreno.fun/ghost-in-the-shell-typing.gif" height="200px" border="1px"></p>
+    <p style="float: Right;"><img src="https://youreno.fun/ghost-in-the-shell-typing.gif" height="50px" border="1px"></p>
 </div>
 <div style="clear: left;">
     <p>- ⏳ Right now: I'm studying at Zealand on my 4th semester and working on small projects.</p>
