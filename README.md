@@ -32,7 +32,8 @@
 <hr>
 
 **📚 - Languages I use:**
-      	<code><a href = "https://en.wikipedia.org/wiki/HTML5"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a></code>
+
+<code><a href = "https://en.wikipedia.org/wiki/HTML5"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/CSS"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/JavaScript"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
 <code><a href = "https://vuejs.org/"><img height="35" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"></a></code>
@@ -56,7 +57,16 @@
 <code><a href = "https://www.putty.org/"><img height="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/53d9ae70251739.5b9d484cde8a2.jpg"></a></code>
 
 
+
+
 <br>
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+
 <h2>My Desktop, Laptops and Tools:</h2>
 
 <details>
