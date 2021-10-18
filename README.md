@@ -45,7 +45,7 @@
 **💾 - Programs & Tools I use:**
 
 <code><a href = "https://visualstudio.microsoft.com/vs/enterprise/"><img height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"></a></code>
-<code><a href = "https://code.visualstudio.com/"><img height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png"></a></code>
+
 <code><a href = "https://www.jetbrains.com/resharper/"><img height="35" src="https://resources.jetbrains.com/storage/products/resharper/img/meta/resharper_logo_300x300.png"></a></code>
 <code><a href = "https://winscp.net/eng/download.php"><img height="35" src="https://winscp-static-746341.c.cdn77.org/assets/images/logos/logo.png?v=6985"></a></code>
 <code><a href = "https://www.vim.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png"></a></code>
@@ -60,27 +60,49 @@
 
 <table>
   <tr>
-    <th>Feild</th>
-    <th>Language</th>
-    <th>Programs/Tools</th>
+    <th>👨‍💻 - Feilds</th>
+    <th>📚 - Languages</th>
+    <th>💾 - Programs/Tools</th>
   </tr>
   <tr>
-    <td>Web</td>
-    <td><code><a href = "https://en.wikipedia.org/wiki/HTML5"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a></code>
+    <td>Web:</td>
+    <td>
+<code><a href = "https://en.wikipedia.org/wiki/HTML5"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/CSS"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/JavaScript"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href = "https://vuejs.org/"><img height="35" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"></a></code><code><a href = "https://getbootstrap.com/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></a></code></td>
-    <td> </td>
+<code><a href = "https://vuejs.org/"><img height="35" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"></a></code>
+<code><a href = "https://getbootstrap.com/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></a></code>
+    </td>
+    <td> 
+<code><a href = "https://code.visualstudio.com/"><img height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png"></a></code>   
+    </td>
   </tr>	
+  <tr>
+    <td>Server/Api:</td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Client Development:</td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Android Development:</td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Machine Learning:</td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Cyber Security</td>
+    <td> </td>
+    <td> </td>
+  </tr>
 </table>
-
-
-
-
-| Field      | Language | Programs     |
-| :---        | :---   | :--- |
-| Web      |       | Here's this   |
-| Paragraph   | Text        | And more      |
 
 
 <h2>My Desktop, Laptops and Tools:</h2>
