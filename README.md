@@ -58,12 +58,28 @@
 
 <br>
 
-| Field      | Language | Programs     |
-| :---        | :---   | :--- |
-| Web      | <code><a href = "https://en.wikipedia.org/wiki/HTML5"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a></code>
+<table>
+  <tr>
+    <th>Feild</th>
+    <th>Language</th>
+    <th>Programs/Tools</th>
+  </tr>
+  <tr>
+    <td>Web</td>
+    <td><code><a href = "https://en.wikipedia.org/wiki/HTML5"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/CSS"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/JavaScript"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href = "https://vuejs.org/"><img height="35" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"></a></code>      | Here's this   |
+<code><a href = "https://vuejs.org/"><img height="35" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"></a></code></td>
+    <td> </td>
+  </tr>	
+</table>
+
+
+
+
+| Field      | Language | Programs     |
+| :---        | :---   | :--- |
+| Web      |       | Here's this   |
 | Paragraph   | Text        | And more      |
 
 
