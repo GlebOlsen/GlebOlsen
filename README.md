@@ -1,5 +1,5 @@
 <h1>Sup World! Welcome to my GitHub profile!</h1>
-<img src="https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif" with="1000" height="200">
+<img src="https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif" width="1000" height="200">
 <br>
 
 <h1>About me:</h1>
