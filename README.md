@@ -24,7 +24,7 @@
 
 <table>
   <tr>
-    <th>👨‍💻 - Feilds</th>
+    <th>👨‍💻 - Fields</th>
     <th>📚 - Languages</th>
     <th>💾 - Programs/Tools</th>
   </tr>
