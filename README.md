@@ -7,20 +7,12 @@
 <body>
 
 
-<div>
-    <p style="float: Right;"><img src="https://youreno.fun/ghost-in-the-shell-typing.gif" height="200" border="1px"></p>
-</div>
-<div style="clear: left;">
-    <p>- ⏳ Right now: I'm studying at Zealand on my 4th semester and working on small projects.</p>
-    <p>- 📖 2021/2022 goal: To learn as much as possible so that I can use my knowledge in practice.</p>
-    <p>- 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!</p>
-    
-</div>
+<img align="right" alt="GIF" src="https://youreno.fun/ghost-in-the-shell-typing.gif" width="300"/>
 
-</body>
-</html>
-
-
+- ⏳ Right now: I'm studying at Zealand on my 4th semester and working on small projects.
+- 📖 2021/2022 goal: To learn as much as possible so that I can use my knowledge in practice.
+- 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!
+   
 
 <h2>Knowledge</h2>
 
