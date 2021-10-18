@@ -1,4 +1,4 @@
-<h1>Sup World! Welcome to my GitHub profile!</h1>
+<h1 align="center">Welcome to my GitHub profile!</h1>
 <h2>About me:</h2>
 
 <img align="right" alt="GIF" src="https://youreno.fun/ghost-in-the-shell-typing.gif" width="400"/>
