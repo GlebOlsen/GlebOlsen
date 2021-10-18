@@ -1,5 +1,5 @@
 <h1>Sup World! Welcome to my GitHub profile!</h1>
-<img src="https://youreno.fun/ghost-in-the-shell-typing.gif" width="1000">
+<img src="https://youreno.fun/ghost-in-the-shell-typing.gif" width="1000" height="200">
 <br>
 
 <h1>About me:</h1>
