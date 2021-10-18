@@ -23,6 +23,9 @@
 <h3>My programming experience:</h3>
 
 <table>
+<colgroup>
+  <col span="3" style="background-color: transparent">
+</colgroup>
   <tr>
     <th>👨‍💻 - Fields</th>
     <th>📚 - Languages</th>
