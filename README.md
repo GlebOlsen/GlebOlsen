@@ -11,7 +11,7 @@
 
 <h2>Knowledge:</h2>
 
-**📊 - Programming Methodologies I'm familiar with:**
+**📊 - Programming development methodologies I'm familiar with:**
 
 <p align="center" style="font-weight: bold;">
 <a href="https://en.wikipedia.org/wiki/Extreme_programming">💢Extreme Programming (XP)💢 </a>
