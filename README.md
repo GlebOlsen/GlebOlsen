@@ -3,8 +3,8 @@
 
 <img align="right" alt="GIF" src="https://youreno.fun/ghost-in-the-shell-typing.gif" width="400"/>
 
-- ⏳ Right now: I'm studying at Zealand on my 4th semester and working on small projects.
-- 📖 2021/2022 goal: To learn as much as possible so that I can use my knowledge in practice.
+- ⏳ Right now: I'm studying at Zealand on my 5th semester and working on small projects.
+- 📖 2022/2023 goal: To learn as much as possible so that I can use my knowledge in practice and work.
 - 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!
    
 <br>
