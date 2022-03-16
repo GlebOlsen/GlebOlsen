@@ -123,7 +123,7 @@
 <details>
   <summary style="font-weight: bold;">Desktop:</summary>
     <ul>
-      <li><b>OS:</b> Windows 10 Enterpise</li>
+      <li><b>OS:</b> Sparky Linux</li>
   		<li><b>Processor/CPU:</b> R9 5900X</li>
   		<li><b>Graphics Card/GPU:</b></li>
         <ol>
@@ -150,7 +150,7 @@
 <details>
   <summary style="font-weight: bold;">Work Laptop:</summary>
     <ul>
-      <li><b>OS:</b> Windows 10 Enterpise</li>
+      <li><b>OS:</b> Sparky Linux</li>
   		<li><b>GPU and CPU:</b> R7 4700U</li>
   		<li><b>Memory/Ram:</b> 16GB 3200Mhz 22cl</li>
       <li><b>Monitors:</b> 15.6' 1080p 60Hz</li>
@@ -164,7 +164,7 @@
 <details>
   <summary style="font-weight: bold;">Linux Laptop:</summary>
     <ul>
-      <li><b>OS:</b> Kali Linux</li>
+      <li><b>OS:</b> Windows 10 LTSC 21H2</li>
   		<li><b>Processor/CPU:</b> Silver N5000</li>
   		<li><b>Memory/Ram:</b> 4GB 2400Mhz</li>
       <li><b>Monitors:</b> 14' 1080p 60Hz</li>
