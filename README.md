@@ -8,7 +8,6 @@
 - 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!
 - 👨‍💻 Working in Bonnier Publications A/S as a part time developer.
 
-   
 <br>
 
 <h2>Knowledge:</h2>
