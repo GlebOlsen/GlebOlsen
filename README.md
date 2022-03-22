@@ -64,7 +64,7 @@
     </td>
   </tr>
   <tr>
-    <td>Client Development:</td>
+    <td>Client Software Development:</td>
     <td>
 <code><a href = "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img height="35" src="https://docs.microsoft.com/en-us/windows/images/csharp-logo.png"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language"><img height="35" src="https://icon-library.com/images/xaml-icon/xaml-icon-8.jpg"></a></code>
