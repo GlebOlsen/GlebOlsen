@@ -58,6 +58,9 @@
 <code><a href = "https://www.vim.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png"></a></code>
 <code><a href = "https://azure.microsoft.com/en-us/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg"></a></code>
 <code><a href = "https://firebase.google.com/"><img height="35" src="https://media-thumbs.golden.com/dicg-bjat2y9UulHJiXz3ElW3Ww=/200x200/smart/golden-media.s3.amazonaws.com%2Ftopic_images%2Fccdf39280f544140911153227860de35.png"></a></code>
+<code><a href = "https://www.docker.com/why-docker/"><img height="35" src="https://img.techentice.com/media/2020/06/docker.png"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/Nginx"><img height="35" src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png"></a></code>
+<code><a href = "https://httpd.apache.org/ABOUT_APACHE.html"><img height="35" src="https://g3n1k.files.wordpress.com/2016/08/47359.png"></a></code>
     </td>
   </tr>
   <tr>
