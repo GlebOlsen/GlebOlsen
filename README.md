@@ -40,6 +40,9 @@
     <td> 
 <code><a href = "https://code.visualstudio.com/"><img height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png"></a></code>
 <code><a href = "https://git-scm.com/"><img height="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/Node.js"><img height="35" src="https://www.the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/Npm_(software)"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png"></a></code>
+<code><a href = "https://nuxtjs.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg"></a></code>
     </td>
   </tr>	
   <tr>
@@ -121,7 +124,7 @@
 <h2>My Desktop, Laptops and Tools:</h2>
 
 <details>
-  <summary style="font-weight: bold;">Desktop:</summary>
+  <summary style="font-weight: bold;">Linux Desktop:</summary>
     <ul>
       <li><b>OS:</b> Sparky Linux</li>
   		<li><b>Processor/CPU:</b> R9 5900X</li>
@@ -148,7 +151,7 @@
 	  </ul>
 </details>
 <details>
-  <summary style="font-weight: bold;">Work Laptop:</summary>
+  <summary style="font-weight: bold;">Work Linux Laptop:</summary>
     <ul>
       <li><b>OS:</b> Sparky Linux</li>
   		<li><b>GPU and CPU:</b> R7 4700U</li>
@@ -162,7 +165,7 @@
 	  </ul>
 </details>
 <details>
-  <summary style="font-weight: bold;">Linux Laptop:</summary>
+  <summary style="font-weight: bold;">Windows Laptop:</summary>
     <ul>
       <li><b>OS:</b> Windows 10 LTSC 21H2</li>
   		<li><b>Processor/CPU:</b> Silver N5000</li>
