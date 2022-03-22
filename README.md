@@ -6,6 +6,8 @@
 - ⏳ Right now: I'm studying at Zealand on my 5th semester and working on small projects.
 - 📖 2022/2023 goal: To learn as much as possible so that I can use my knowledge in practice and work.
 - 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!
+- 👨‍💻 Working in Bonnier Publications A/S as a part time developer.
+
    
 <br>
 
