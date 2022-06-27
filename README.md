@@ -130,7 +130,7 @@
 <details>
   <summary style="font-weight: bold;">Linux Desktop:</summary>
     <ul>
-      <li><b>OS:</b> Sparky Linux</li>
+      <li><b>OS:</b> Debian Testing</li>
   		<li><b>Processor/CPU:</b> R9 5900X</li>
   		<li><b>Graphics Card/GPU:</b></li>
         <ol>
@@ -157,7 +157,7 @@
 <details>
   <summary style="font-weight: bold;">Work Linux Laptop:</summary>
     <ul>
-      <li><b>OS:</b> Sparky Linux</li>
+      <li><b>OS:</b> Debian Testing</li>
   		<li><b>GPU and CPU:</b> R7 4700U</li>
   		<li><b>Memory/Ram:</b> 16GB 3200Mhz 22cl</li>
       <li><b>Monitors:</b> 15.6' 1080p 60Hz</li>
