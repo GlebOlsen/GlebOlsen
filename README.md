@@ -115,7 +115,7 @@
   <tr>
     <td>IOT Development:</td>
     <td>
-<code><a href = "https://en.wikipedia.org/wiki/C_(programming_language)"><img height="35" src="https://www.jalalmhz.ir/wp-content/uploads/2021/05/Introduction-to-C-programming-language.png"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/C_(programming_language)"><img height="35" src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png"></a></code>
     </td>
     <td> 
 <code><a href = "https://www.arduino.cc/"><img height="35" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></a></code>
