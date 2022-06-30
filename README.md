@@ -6,7 +6,7 @@
 - ⏳ Right now: I'm studying in my free time and working full time at Bonnier Publications.
 - 📖 2022/2023 goal: To learn as much as possible so that I can use my knowledge in practice and work.
 - 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!
-- 👨‍💻 Working at Bonnier Publications A/S as a part time developer.
+- 👨‍💻 OS of choice: Debian/Testing - i3 (WM)
 
 <br>
 
@@ -40,6 +40,7 @@
 <code><a href = "https://reactjs.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a></code>
 <code><a href = "https://tailwindcss.com"><img height="35" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"></a></code>
 <code><a href = "https://www.typescriptlang.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png"></a></code>
+<code><a href = "https://axios-http.com/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Axios_logo_%282020%29.svg/2560px-Axios_logo_%282020%29.svg.png"></a></code>
     </td>
     <td> 
 <code><a href = "https://code.visualstudio.com/"><img height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png"></a></code>
@@ -53,8 +54,9 @@
   <tr>
     <td>Server/Api Development:</td>
     <td>
-<code><a href = "https://en.wikipedia.org/wiki/SQL"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/Microsoft_SQL_Server"><img height="35" src="https://user-images.githubusercontent.com/15386828/118396465-5129c000-b658-11eb-8fa1-48f185431c82.png"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="35" src="https://styles.redditmedia.com/t5_2qh2d/styles/communityIcon_xagsn9nsaih61.png?width=256&s=1e4cf3a17c94aecf9c127cef47bb259162283a38"></a></code>
+<code><a href = "https://www.sqlite.org"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"></a></code>
     </td>
     <td> 
 <code><a href = "https://www.postman.com/"><img height="35" src="https://crackedrar.com/wp-content/uploads/2019/05/56276.png"></a></code>
@@ -66,6 +68,7 @@
 <code><a href = "https://www.docker.com/why-docker/"><img height="35" src="https://img.techentice.com/media/2020/06/docker.png"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/Nginx"><img height="35" src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png"></a></code>
 <code><a href = "https://httpd.apache.org/ABOUT_APACHE.html"><img height="35" src="https://g3n1k.files.wordpress.com/2016/08/47359.png"></a></code>
+<code><a href = "https://strapi.io"><img height="35" src="https://cdn.worldvectorlogo.com/logos/strapi-2.svg"></a></code>
     </td>
   </tr>
   <tr>
