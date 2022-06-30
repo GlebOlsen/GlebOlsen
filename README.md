@@ -6,7 +6,7 @@
 - ⏳ Right now: I'm studying in my free time and working full time at Bonnier Publications.
 - 📖 2022/2023 goal: To learn as much as possible so that I can use my knowledge in practice and work.
 - 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!
-- 👨‍💻 OS of choice: Debian/Testing - i3 (WM)
+- 💿 OS of choice: Debian/Testing - i3 (WM)
 
 <br>
 
