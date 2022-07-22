@@ -108,7 +108,8 @@
     <td>
 <code><a href = "https://docs.hak5.org/hc/en-us/articles/360010555153-Ducky-Script-the-USB-Rubber-Ducky-language"><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9nMn1DoROY5zOa86x4pQR5PvU-EWVvhDGNeVipNuycbL4oNY87zJY9mBDJ9jxK7DR4wQ&usqp=CAU"></a></code>
     </td>
-    <td> 
+    <td>
+<code><a href = "https://tox.chat/"><img height="35" src="https://tox.chat/theme/img/icon.svg"></a></code>
 <code><a href = "https://www.autohotkey.com/"><img height="35" src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png"></a></code>
 <code><a href = "https://www.cryptool.org/en/ct1/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ct-logo-big.png/220px-Ct-logo-big.png"></a></code>
 <code><a href = "https://www.cryptool.org/en/ct2/"><img height="35" src="https://www.cryptool.org/assets/site/img/layout/area-icons/ct2-icon.svg"></a></code>
