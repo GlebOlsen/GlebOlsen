@@ -40,7 +40,7 @@
 <code><a href = "https://reactjs.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a></code>
 <code><a href = "https://tailwindcss.com"><img height="35" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"></a></code>
 <code><a href = "https://www.typescriptlang.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png"></a></code>
-<code><a href = "https://axios-http.com/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/1280px-Axios_%28computer_library%29_logo.svg.png"></a></code>
+<code><a href = "https://axios-http.com/"><img height="35" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/1280px-Axios_%28computer_library%29_logo.svg.png"></a></code>
     </td>
     <td> 
 <code><a href = "https://code.visualstudio.com/"><img height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png"></a></code>
