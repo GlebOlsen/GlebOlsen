@@ -4,9 +4,9 @@
 <img align="right" alt="GIF" src="https://youreno.fun/ghost-in-the-shell-typing.gif" width="400"/>
 
 - ⏳ Right now: I'm studying in my free time and working full time at Bonnier Publications.
-- 📖 2022/2023 goal: To learn as much as possible so that I can use my knowledge in practice and work.
+- 📖 2023 goal: To learn as much as possible so that I can use my knowledge in practice and work.
 - 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!
-- 💿 OS of choice: Debian/Testing - i3 (WM)
+- 💿 OS of choice: Arch - i3 (WM)
 
 <br>
 
@@ -138,14 +138,14 @@
 <details>
   <summary style="font-weight: bold;">Linux Desktop:</summary>
     <ul>
-      <li><b>OS:</b> Debian Testing</li>
+      <li><b>OS:</b> Arch + i3</li>
   		<li><b>Processor/CPU:</b> R9 5900X</li>
   		<li><b>Graphics Card/GPU:</b></li>
         <ol>
   			  <li>GTX 1660 Ti</li>
   				<li>GTX 750 Ti</li>
 			  </ol>
-  		<li><b>Memory/Ram:</b> 2x 8GB 3600Mhz 16cl</li>
+  		<li><b>Memory/Ram:</b> 48GB 3600Mhz 16cl</li>
       <li><b>Storage:</b> Samsung PM9A1: R6500MB W4900MB</li>
       <li><b>Extra Storage:</b> 500GB SSD, 120GB SSD, 500GB HDD</li>
       <li><b>Monitors:</b></li>
@@ -165,7 +165,7 @@
 <details>
   <summary style="font-weight: bold;">Work Linux Laptop:</summary>
     <ul>
-      <li><b>OS:</b> Debian Testing</li>
+      <li><b>OS:</b> Arch + SwayWM</li>
   		<li><b>GPU and CPU:</b> R7 4700U</li>
   		<li><b>Memory/Ram:</b> 16GB 3200Mhz 22cl</li>
       <li><b>Monitors:</b> 15.6' 1080p 60Hz</li>
@@ -177,9 +177,9 @@
 	  </ul>
 </details>
 <details>
-  <summary style="font-weight: bold;">Windows Laptop:</summary>
+  <summary style="font-weight: bold;">Home server:</summary>
     <ul>
-      <li><b>OS:</b> Windows 10 LTSC 21H2</li>
+      <li><b>OS:</b> Arch</li>
   		<li><b>Processor/CPU:</b> Silver N5000</li>
   		<li><b>Memory/Ram:</b> 4GB 2400Mhz</li>
       <li><b>Monitors:</b> 14' 1080p 60Hz</li>
