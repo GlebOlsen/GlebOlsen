@@ -4,9 +4,10 @@
 <img align="right" alt="GIF" src="https://youreno.fun/ghost-in-the-shell-typing.gif" width="400"/>
 
 - ⏳ Right now: I'm studying in my free time and working full time at Bonnier Publications.
-- 📖 2023 goal: To learn as much as possible so that I can use my knowledge in practice and work.
+- 📖 2023 goal: Make my website.
 - 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!
-- 💿 OS of choice: Arch - i3 (WM)
+- 💿 OS of choice: Arch - i3-wm
+- 📝 Favorite editor: Micro, VSCode & neovim.
 
 <br>
 
