@@ -117,7 +117,7 @@
 <code><a href = "https://www.kali.org/"><img height="35" src="https://w7.pngwing.com/pngs/600/114/png-transparent-dragon-kali-linux-android-linux-logo-silhouette-linux-thumbnail.png"></a></code>
 <code><a href = "https://www.wireshark.org/"><img height="35" src="https://www.wireshark.org/assets/images/sflogo.png"></a></code>
 <code><a href = "https://www.virtualbox.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></a></code>
-<code><a href = "https://en.wikipedia.org/wiki/Tor_(network)"><img height="35" src="https://dnk.privateinternetaccess.com/assets/tor-logo-large-89ac1c118b86d69953fff1ab31128550fcce9a74162e9b3fb7d0fc4bfd83e1ed.png"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/Tor_(network)"><img height="35" src="https://static.macupdate.com/products/17679/l/tor-browser-logo.png?v=1671435014"></a></code>
 <code><a href = "https://malduino.com/"><img height="35" src="https://pbs.twimg.com/profile_images/1043152576244531203/GusnUDwl_400x400.jpg"></a></code>
     </td>
   </tr>
