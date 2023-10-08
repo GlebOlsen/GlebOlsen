@@ -166,14 +166,13 @@
 <details>
   <summary style="font-weight: bold;">Work Linux Laptop:</summary>
     <ul>
-      <li><b>OS:</b> Arch + SwayWM</li>
-  		<li><b>GPU and CPU:</b> R7 4700U</li>
-  		<li><b>Memory/Ram:</b> 16GB 3200Mhz 22cl</li>
-      <li><b>Monitors:</b> 15.6' 1080p 60Hz</li>
+      <li><b>OS:</b> Arch + i3</li>
+  		<li><b>GPU and CPU:</b> i7-5600U</li>
+  		<li><b>Memory/Ram:</b> 12GB</li>
+      <li><b>Monitors:</b> 14' 900p 60Hz</li>
 		  <li><b>Cooling:</b></li>
         <ul>
-  				<li><b>Thermal Paste:</b> T.G. Kryonaut (GPU & CPU)</li>
-          <li><b>CPU Cooler:</b> Active with Thermal Grizzly Kryonaut</li>
+  				<li><b>Thermal Paste:</b> MX-6 (GPU & CPU)</li>
 		    </ul>
 	  </ul>
 </details>
