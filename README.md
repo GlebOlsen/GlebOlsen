@@ -6,7 +6,7 @@
 - ⏳ Right now: I'm studying in my free time and working full time at Bonnier Publications.
 - 📖 2023 goal: Make my own blogging website.
 - 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!
-- 💿 OS of choice: Debian/Testing - i3-wm
+- 💿 OS of choice: Arch - i3-wm / Gnome / Hyprland
 - 📝 Favorite editor: Micro, VSCode & neovim.
 
 <br>
