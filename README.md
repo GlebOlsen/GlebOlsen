@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
 <h2>About me:</h2>
-<img style="max-width: 100%; display: inline-block; border-radius: 10px; box-shadow: 0 0 2px 2px cyan;" align="right" alt="GIF" src="pics/GITS-typing.gif" width="400"/>
+<img style="max-width: 100%; display: inline-block; border-radius: 10px !important; box-shadow: 0 0 2px 2px cyan !important;" align="right" alt="GIF" src="pics/GITS-typing.gif" width="400"/>
 
 - ⏳ Right now: I'm studying CyberSec at Kea and working part time at Bonnier Publications.
 - 📖 2024 goals: 
@@ -12,11 +12,11 @@
 
 ## Experience:
 ### Work experience:
- * **Maintained 40+ websites.** - Bonnier Publications 2022-2024
+ * **Maintained 40+ websites** - Bonnier Publications 2022-2024
     - Created many new features.
     - Was responsible for updating, releasing, optimizing and bug-fixing!
     - Was working with DevOps: <u>***Argo CD***</u> and <u>***GCP***</u>.
- * **Made a stack for a startup company.** - Dreamplan 2022
+ * **Made a stack for a startup company** - Dreamplan 2022
     - <u>***React, Strapi***</u> and <u>***SQLite***</u>.  
 ### Development methodologies I've worked with:
 
@@ -27,6 +27,9 @@
 <a href="https://en.wikipedia.org/wiki/Waterfall_model"> 💧Waterfall💧</a>
 </p>
 
+### Education:
+* ***AP Degree in Computer Science*** - *Zealand 2020-2022*
+* ***Bachelor in Cyber Security*** - *Kea 2024-2025*
 ## Languages and tools:
 <table>
   <tr>
@@ -40,42 +43,48 @@
 <code><a href = "https://en.wikipedia.org/wiki/HTML5"><img height="35" src="icons/HTML5.svg"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/CSS"><img height="35" src="icons/CSS.svg"></a></code>
 <code><a href = "https://sass-lang.com/"><img height="35" src="icons/sass.svg"></a></code>
+<code><a href = "https://tailwindcss.com"><img height="35" src="icons/tailwind.svg"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/JavaScript"><img height="35" src="icons/js.svg"></a></code>
 <code><a href = "https://www.typescriptlang.org/"><img height="35" src="icons/ts.svg"></a></code>
-<code><a href = "https://tailwindcss.com"><img height="35" src="icons/tailwind.svg"></a></code>
-<code><a href = "https://vuejs.org/"><img height="35" src="icons/Vue.svg"></a></code>
 <code><a href = "https://getbootstrap.com/"><img height="35" src="icons/bootstrap.svg"></a></code>
-<code><a href = "https://reactjs.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a></code>
-<code><a href = "https://axios-http.com/"><img height="20" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/1280px-Axios_%28computer_library%29_logo.svg.png"></a></code>
+<code><a href = "https://vuejs.org/"><img height="35" src="icons/Vue.svg"></a></code>
+<code><a href = "https://reactjs.org/"><img height="35" src="icons/react.svg"></a></code>
+<code><a href = "https://axios-http.com/"><img height="20" width="100" src="icons/axios.svg"></a></code>
     </td>
     <td> 
-<code><a href = "https://code.visualstudio.com/"><img height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png"></a></code>
-<code><a href = "https://git-scm.com/"><img height="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a></code>
-<code><a href = "https://en.wikipedia.org/wiki/Node.js"><img height="35" src="https://www.the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png"></a></code>
-<code><a href = "https://en.wikipedia.org/wiki/Npm_(software)"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png"></a></code>
-<code><a href = "https://nuxtjs.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg"></a></code>
-<code><a href = "https://nextjs.org/"><img height="35" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></a></code>
+<code><a href = "https://code.visualstudio.com/"><img height="35" src="icons/vscode.svg"></a></code>
+<code><a href = "https://git-scm.com/"><img height="35" src="icons/git.svg"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/Node.js"><img height="35" src="icons/node.svg"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/Npm_(software)"><img height="35" src="icons/npm.svg"></a></code>
 <code><a href = "https://pnpm.io/"><img height="35" src="icons/pnpm.svg"></a></code>
+<code><a href = "https://nuxtjs.org/"><img height="35" src="icons/nuxt.svg"></a></code>
+<code><a href = "https://nextjs.org/"><img height="35" src="icons/nextjs.svg"></a></code>
     </td>
   </tr>	
   <tr>
     <td><b>Server/Api Development:</b></td>
     <td>
-<code><a href = "https://en.wikipedia.org/wiki/Microsoft_SQL_Server"><img height="35" src="https://user-images.githubusercontent.com/15386828/118396465-5129c000-b658-11eb-8fa1-48f185431c82.png"></a></code>
-<code><a href = "https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="35" src="https://styles.redditmedia.com/t5_2qh2d/styles/communityIcon_xagsn9nsaih61.png?width=256&s=1e4cf3a17c94aecf9c127cef47bb259162283a38"></a></code>
-<code><a href = "https://www.sqlite.org"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/Microsoft_SQL_Server"><img height="35" src="icons/mssql.png"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="35" src="icons/bash.svg"></a></code>
+<code><a href = "https://www.sqlite.org"><img height="35" src="icons/sqlite.svg"></a></code>
     </td>
     <td> 
-<code><a href = "https://www.postman.com/"><img height="35" src="https://crackedrar.com/wp-content/uploads/2019/05/56276.png"></a></code>
-<code><a href = "https://www.putty.org/"><img height="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/53d9ae70251739.5b9d484cde8a2.jpg"></a></code>
-<code><a href = "https://winscp.net/eng/download.php"><img height="35" src="https://winscp-static-746341.c.cdn77.org/assets/images/logos/logo.png?v=6985"></a></code>
-<code><a href = "https://www.vim.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png"></a></code>
-<code><a href = "https://azure.microsoft.com/en-us/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg"></a></code>
-<code><a href = "https://firebase.google.com/"><img height="35" src="https://media-thumbs.golden.com/dicg-bjat2y9UulHJiXz3ElW3Ww=/200x200/smart/golden-media.s3.amazonaws.com%2Ftopic_images%2Fccdf39280f544140911153227860de35.png"></a></code>
-<code><a href = "https://www.docker.com/why-docker/"><img height="35" src="https://img.techentice.com/media/2020/06/docker.png"></a></code>
-<code><a href = "https://en.wikipedia.org/wiki/Nginx"><img height="35" src="https://www.nginx.com/wp-content/uploads/2018/08/NGINX-logo-rgb-large.png"></a></code>
-<code><a href = "https://httpd.apache.org/ABOUT_APACHE.html"><img height="35" src="https://g3n1k.files.wordpress.com/2016/08/47359.png"></a></code>
-<code><a href = "https://strapi.io"><img height="35" src="https://cdn.worldvectorlogo.com/logos/strapi-2.svg"></a></code>
+<code><a href = "https://cloud.google.com/"><img height="35" src="icons/GCP.svg"></a></code>
+<code><a href = "https://azure.microsoft.com/en-us/"><img height="35" src="icons/azure.svg"></a></code>
+<code><a href = "https://firebase.google.com/"><img height="35" src="icons/firebase.svg"></a></code>
+<code><a href = "https://linux.die.net/man/8/iptables"><img height="35" src="icons/iptables.svg"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/Secure_Shell"><img height="35" src="icons/ssh.svg"></a></code>
+<code><a href = "https://www.putty.org/"><img height="35" src="icons/putty.svg"></a></code>
+<code><a href = "https://winscp.net/eng/download.php"><img height="35" src="icons/winscp.png"></a></code>
+<code><a href = "https://filezilla-project.org/"><img height="35" src="icons/filez.svg"></a></code>
+<code><a href = "https://micro-editor.github.io/"><img height="35" src="icons/micro.png"></a></code>
+<code><a href = "https://www.vim.org/"><img height="35" src="icons/vim.svg"></a></code>
+<code><a href = "https://www.postman.com/"><img height="35" src="icons/postman.svg"></a></code>
+<code><a href = "https://kubernetes.io/"><img height="35" src="icons/kubernetes.svg"></a></code>
+<code><a href = "https://www.docker.com/why-docker/"><img height="35" src="icons/docker.svg"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/Nginx"><img height="35" src="icons/nginx.svg"></a></code>
+<code><a href = "https://httpd.apache.org/ABOUT_APACHE.html"><img height="35" src="icons/apache.svg"></a></code>
+<code><a href = "https://strapi.io"><img height="35" src="icons/strapi.svg"></a></code>
     </td>
   </tr>
   <tr>
