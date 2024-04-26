@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
 <h2>About me:</h2>
-<img style="border-radius: 10px; box-shadow: 0 0 2px 2px cyan;" align="right" alt="GIF" src="pics/GITS-typing.gif" width="375"/>
+<img style="max-width: 100%; display: inline-block; border-radius: 10px; box-shadow: 0 0 2px 2px cyan;" align="right" alt="GIF" src="pics/GITS-typing.gif" width="375"/>
 
 - ⏳ Right now: I'm studying CyberSec at Kea and working part time at Bonnier Publications.
 - 📖 2024 goals: 
@@ -18,7 +18,6 @@
     - Was working with DevOps: <u>***Argo CD***</u> and <u>***GCP***</u>.
  * **Made a stack for a startup company.** - Dreamplan 2022
     - <u>***React, Strapi***</u> and <u>***SQLite***</u>.  
-
 ### Development methodologies I've worked with:
 
 <p align="center" style="font-weight: bold;">
@@ -29,7 +28,6 @@
 </p>
 
 ## Languages and tools:
-
 <table>
   <tr>
     <th>👨‍💻 - Fields</th>
