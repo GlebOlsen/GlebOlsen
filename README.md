@@ -124,7 +124,7 @@
     <td><b>Cyber Security:</b></td>
     <td>
 <code><a href = "https://docs.hak5.org/hc/en-us/articles/360010555153-Ducky-Script-the-USB-Rubber-Ducky-language"><img height="35" src="icons/rubberduck.png"></a></code>
-<code><a href = "https://www.gnu.org/software/software.en.html"><img height="35" src="icons/gnu.png"> Me speak GNU!</a></code>
+<code><a href = "https://www.gnu.org/software/software.en.html"><img height="35" src="icons/gnu.png"> I echo GNU</a></code>
     </td>
     <td>
 <code><a href = "https://www.kali.org/"><img height="35" src="icons/kali.svg"></a></code>
