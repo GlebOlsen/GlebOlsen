@@ -124,6 +124,7 @@
     <td><b>Cyber Security:</b></td>
     <td>
 <code><a href = "https://docs.hak5.org/hc/en-us/articles/360010555153-Ducky-Script-the-USB-Rubber-Ducky-language"><img height="35" src="icons/rubberduck.png"></a></code>
+<code><a href = "https://www.gnu.org/software/software.en.html"><img height="35" src="icons/gnu.png"> Me speak GNU!</a></code>
     </td>
     <td>
 <code><a href = "https://www.kali.org/"><img height="35" src="icons/kali.svg"></a></code>
@@ -152,10 +153,11 @@
     <td><b>IOT Development:</b></td>
     <td>
 <code><a href = "https://en.wikipedia.org/wiki/C_(programming_language)"><img height="35" src="icons/C.svg"></a></code>
+<code><a href = "https://dlang.org/"><img height="35" src="icons/D.svg"></a></code>
     </td>
     <td> 
 <code><a href = "https://www.arduino.cc/"><img height="35" src="icons/arduino.svg"></a></code>
-    <code><a href = "https://www.espressif.com/en/products/socs/esp32"><img height="35" src="icons/espressif.svg"></a></code>
+<code><a href = "https://www.espressif.com/en/products/socs/esp32"><img height="35" src="icons/espressif.svg"></a></code>
 <code><a href = "https://www.raspberrypi.org/"><img height="35" src="icons/rpi.png"></a></code>
     </td>
   </tr>
@@ -175,6 +177,7 @@
     </td>
 </tr>
 </table>
+<p align="center">Yes I have used all of them. <u><b>Each for at least 6 months min.</b></u> (exclude NixOS only used for 1 month).</p>
 
 ## My hardware and Tools:
 <details>
