@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
 <h2>About me:</h2>
-<img style="max-width: 100%; display: inline-block; border-radius: 10px; box-shadow: 0 0 2px 2px cyan;" align="right" alt="GIF" src="pics/GITS-typing.gif" width="375"/>
+<img style="max-width: 100%; display: inline-block; border-radius: 10px; box-shadow: 0 0 2px 2px cyan;" align="right" alt="GIF" src="pics/GITS-typing.gif" width="400"/>
 
 - ⏳ Right now: I'm studying CyberSec at Kea and working part time at Bonnier Publications.
 - 📖 2024 goals: 
