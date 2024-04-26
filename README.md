@@ -177,7 +177,7 @@
     </td>
 </tr>
 </table>
-<p align="center">Yes I have used all of them. <u><b>Each for at least 6 months min.</b></u> (exclude NixOS only used for 1 month).</p>
+<p align="center">Yes I have used all of them. <u><b>Each for at least 1 year min.</b></u> (exclude NixOS only used for 1 month).</p>
 
 ## My hardware and Tools:
 <details>
