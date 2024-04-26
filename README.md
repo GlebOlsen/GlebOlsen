@@ -11,13 +11,13 @@
 - 📝 Favorite editor: Micro and VSCode.
 
 ## Experience:
-> ### Work experience:
-> * **Maintained 40+ websites.** - Bonnier Publications 2022-2024
->    - Created many new features.
->    - Was responsible for updating, releasing, optimizing and bug-fixing!
->    - Was working with DevOps: <u>***Argo CD***</u> and <u>***GCP***</u>.
-> * **Made a stack for a startup company.** - Dreamplan 2022
->    - <u>***React, Strapi***</u> and <u>***SQLite***</u>.  
+### Work experience:
+ * **Maintained 40+ websites.** - Bonnier Publications 2022-2024
+    - Created many new features.
+    - Was responsible for updating, releasing, optimizing and bug-fixing!
+    - Was working with DevOps: <u>***Argo CD***</u> and <u>***GCP***</u>.
+ * **Made a stack for a startup company.** - Dreamplan 2022
+    - <u>***React, Strapi***</u> and <u>***SQLite***</u>.  
 
 ### Development methodologies I've worked with:
 
