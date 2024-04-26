@@ -85,6 +85,7 @@
 <code><a href = "https://en.wikipedia.org/wiki/Nginx"><img height="35" src="icons/nginx.svg"></a></code>
 <code><a href = "https://httpd.apache.org/ABOUT_APACHE.html"><img height="35" src="icons/apache.svg"></a></code>
 <code><a href = "https://strapi.io"><img height="35" src="icons/strapi.svg"></a></code>
+<code><a href = "https://wordpress.com/"><img height="35" src="icons/wp.svg"></a></code>
     </td>
   </tr>
   <tr>
