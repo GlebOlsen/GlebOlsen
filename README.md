@@ -1,28 +1,34 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
 <h2>About me:</h2>
+<img style="border-radius: 10px; box-shadow: 0 0 2px 2px cyan;" align="right" alt="GIF" src="pics/GITS-typing.gif" width="375"/>
 
-<img align="right" alt="GIF" src="https://youreno.fun/ghost-in-the-shell-typing.gif" width="400"/>
-
-- ⏳ Right now: I'm studying at Kea and working part time at Bonnier Publications.
-- 📖 2024 goal: Make my own blogging website.
-- 🚀 My goal is: To be one of the best programmers and help achive big goals in the software industry!
+- ⏳ Right now: I'm studying CyberSec at Kea and working part time at Bonnier Publications.
+- 📖 2024 goals: 
+  * Make my own blogging website.
+  * Create NAS
+- 🚀 My goal is: To be one of the best programmers and help achieve big goals in the software industry!
 - 💿 OS of choice: Debian - i3-wm
-- 📝 Favorite editor: Micro, VSCode & neovim.
+- 📝 Favorite editor: Micro and VSCode.
 
-<br>
+## Experience:
+> ### Work experience:
+> * **Maintained 40+ websites.** - Bonnier Publications 2022-2024
+>    - Created many new features.
+>    - Was responsible for updating, releasing, optimizing and bug-fixing!
+>    - Was working with DevOps: <u>***Argo CD***</u> and <u>***GCP***</u>.
+> * **Made a stack for a startup company.** - Dreamplan 2022
+>    - <u>***React, Strapi***</u> and <u>***SQLite***</u>.  
 
-<h2>Knowledge:</h2>
-
-**📊 - Development methodologies I'm familiar with:**
+### Development methodologies I've worked with:
 
 <p align="center" style="font-weight: bold;">
 <a href="https://en.wikipedia.org/wiki/Extreme_programming">💢Extreme Programming (XP)💢 </a>
 <a href="https://en.wikipedia.org/wiki/Scrum_(software_development)"> 🔄Scrum🔄 </a>
-<a href="https://en.wikipedia.org/wiki/DevOps"> ♾DevOps♾ </a>
+<a href="https://en.wikipedia.org/wiki/DevOps"> ♾️DevOps♾️ </a>
 <a href="https://en.wikipedia.org/wiki/Waterfall_model"> 💧Waterfall💧</a>
 </p>
 
-<h3>My programming experience:</h3>
+## Languages and tools:
 
 <table>
   <tr>
@@ -31,16 +37,17 @@
     <th>💾 - Programs/Tools</th>
   </tr>
   <tr>
-    <td>Web Development:</td>
+    <td><b>Web Development:</b></td>
     <td>
-<code><a href = "https://en.wikipedia.org/wiki/HTML5"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a></code>
-<code><a href = "https://en.wikipedia.org/wiki/CSS"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></a></code>
-<code><a href = "https://en.wikipedia.org/wiki/JavaScript"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href = "https://vuejs.org/"><img height="35" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"></a></code>
-<code><a href = "https://getbootstrap.com/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/HTML5"><img height="35" src="icons/HTML5.svg"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/CSS"><img height="35" src="icons/CSS.svg"></a></code>
+<code><a href = "https://sass-lang.com/"><img height="35" src="icons/sass.svg"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/JavaScript"><img height="35" src="icons/js.svg"></a></code>
+<code><a href = "https://www.typescriptlang.org/"><img height="35" src="icons/ts.svg"></a></code>
+<code><a href = "https://tailwindcss.com"><img height="35" src="icons/tailwind.svg"></a></code>
+<code><a href = "https://vuejs.org/"><img height="35" src="icons/Vue.svg"></a></code>
+<code><a href = "https://getbootstrap.com/"><img height="35" src="icons/bootstrap.svg"></a></code>
 <code><a href = "https://reactjs.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></a></code>
-<code><a href = "https://tailwindcss.com"><img height="35" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"></a></code>
-<code><a href = "https://www.typescriptlang.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png"></a></code>
 <code><a href = "https://axios-http.com/"><img height="20" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/1280px-Axios_%28computer_library%29_logo.svg.png"></a></code>
     </td>
     <td> 
@@ -50,10 +57,11 @@
 <code><a href = "https://en.wikipedia.org/wiki/Npm_(software)"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png"></a></code>
 <code><a href = "https://nuxtjs.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg"></a></code>
 <code><a href = "https://nextjs.org/"><img height="35" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></a></code>
+<code><a href = "https://pnpm.io/"><img height="35" src="icons/pnpm.svg"></a></code>
     </td>
   </tr>	
   <tr>
-    <td>Server/Api Development:</td>
+    <td><b>Server/Api Development:</b></td>
     <td>
 <code><a href = "https://en.wikipedia.org/wiki/Microsoft_SQL_Server"><img height="35" src="https://user-images.githubusercontent.com/15386828/118396465-5129c000-b658-11eb-8fa1-48f185431c82.png"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="35" src="https://styles.redditmedia.com/t5_2qh2d/styles/communityIcon_xagsn9nsaih61.png?width=256&s=1e4cf3a17c94aecf9c127cef47bb259162283a38"></a></code>
@@ -73,7 +81,7 @@
     </td>
   </tr>
   <tr>
-    <td>Client Software Development:</td>
+    <td><b>Client Software Development:</b></td>
     <td>
 <code><a href = "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img height="35" src="https://docs.microsoft.com/en-us/windows/images/csharp-logo.png"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language"><img height="35" src="https://icon-library.com/images/xaml-icon/xaml-icon-8.jpg"></a></code>
@@ -84,7 +92,7 @@
     </td>
   </tr>
   <tr>
-    <td>Android Development:</td>
+    <td><b>Android Development:</b></td>
     <td> 
 <code><a href = "https://kotlinlang.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/XML"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Extensible_Markup_Language_%28XML%29_logo.svg"></a></code>  
@@ -94,7 +102,7 @@
     </td>
   </tr>
   <tr>
-    <td>Machine Learning:</td>
+    <td><b>Machine Learning:</b></td>
     <td> 
 <code><a href = "https://www.python.org/"><img height="35" src="https://www.python.org/static/opengraph-icon-200x200.png"></a></code>
     </td>
@@ -105,7 +113,7 @@
     </td>
   </tr>
   <tr>
-    <td>Cyber Security:</td>
+    <td><b>Cyber Security:</b></td>
     <td>
 <code><a href = "https://docs.hak5.org/hc/en-us/articles/360010555153-Ducky-Script-the-USB-Rubber-Ducky-language"><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9nMn1DoROY5zOa86x4pQR5PvU-EWVvhDGNeVipNuycbL4oNY87zJY9mBDJ9jxK7DR4wQ&usqp=CAU"></a></code>
     </td>
@@ -114,7 +122,7 @@
 <code><a href = "https://www.autohotkey.com/"><img height="35" src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png"></a></code>
 <code><a href = "https://www.cryptool.org/en/ct1/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ct-logo-big.png/220px-Ct-logo-big.png"></a></code>
 <code><a href = "https://www.cryptool.org/en/ct2/"><img height="35" src="https://www.cryptool.org/assets/site/img/layout/area-icons/ct2-icon.svg"></a></code>
-<code><a href = "https://www.kali.org/"><img height="35" src="https://w7.pngwing.com/pngs/600/114/png-transparent-dragon-kali-linux-android-linux-logo-silhouette-linux-thumbnail.png"></a></code>
+<code><a href = "https://www.kali.org/"><img height="35" src="icons/kali.svg"></a></code>
 <code><a href = "https://www.wireshark.org/"><img height="35" src="https://www.wireshark.org/assets/images/sflogo.png"></a></code>
 <code><a href = "https://www.virtualbox.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></a></code>
 <code><a href = "https://en.wikipedia.org/wiki/Tor_(network)"><img height="35" src="https://static-00.iconduck.com/assets.00/tor-icon-256x256-kounv0xh.png"></a></code>
@@ -122,7 +130,7 @@
     </td>
   </tr>
   <tr>
-    <td>IOT Development:</td>
+    <td><b>IOT Development:</b></td>
     <td>
 <code><a href = "https://en.wikipedia.org/wiki/C_(programming_language)"><img height="35" src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png"></a></code>
     </td>
@@ -133,9 +141,22 @@
   </tr>
 </table>
 
+## Linux experience:
+<table align="center">
+<tr>
+    <td>
+<code><a href = "https://www.debian.org/"><img height="35" src="icons/debian.svg"></a></code>
+<code><a href = "https://archlinux.org/"><img height="35" src="icons/arch.svg"></a></code> 
+<code><a href = "https://fedoraproject.org/"><img height="35" src="icons/fedor.svg"></a></code>
+<code><a href = "https://www.kali.org/"><img height="35" src="icons/kali.svg"></a></code>
+<code><a href = "https://nixos.org/"><img height="35" src="icons/nixos.svg"></a></code>
+<code><a href = "https://www.raspberrypi.com/software/"><img height="35" src="icons/rpi.png"></a></code>
+<code><a href = "https://ubuntu.com/"><img height="35" src="icons/ubuntu.svg"></a></code>
+    </td>
+</tr>
+</table>
 
-<h2>My Desktop, Laptops and Tools:</h2>
-
+## My hardware and Tools:
 <details>
   <summary style="font-weight: bold;">Linux Desktop:</summary>
     <ul>
@@ -151,7 +172,6 @@
       <li><b>Extra Storage:</b> 500GB SSD, 120GB SSD, 500GB HDD</li>
       <li><b>Monitors:</b></li>
 			  <ol>
-  		    <li>24.5' 1080p 240Hz</li>
   				<li>32' 4K 60Hz</li>
           <li>24' 1080p 60Hz</li>
 			  </ol>
@@ -164,36 +184,22 @@
 	  </ul>
 </details>
 <details>
-  <summary style="font-weight: bold;">Work Linux Laptop:</summary>
-    <ul>
-      <li><b>OS:</b> Arch + i3</li>
-  		<li><b>GPU and CPU:</b> i7-5600U</li>
-  		<li><b>Memory/Ram:</b> 12GB</li>
-      <li><b>Monitors:</b> 14' 900p 60Hz</li>
-		  <li><b>Cooling:</b></li>
-        <ul>
-  				<li><b>Thermal Paste:</b> MX-6 (GPU & CPU)</li>
-		    </ul>
-	  </ul>
+  <summary style="font-weight: bold;">Work/Study Laptop:</summary>
+    <ul> 
+      <li><b>T480</b> 16Gb i7-8550U</li>
+    </ul>
 </details>
 <details>
-  <summary style="font-weight: bold;">Home server:</summary>
+  <summary style="font-weight: bold;">Home servers:</summary>
     <ul>
-      <li><b>OS:</b> Arch</li>
-  		<li><b>Processor/CPU:</b> Silver N5000</li>
-  		<li><b>Memory/Ram:</b> 4GB 2400Mhz</li>
-      <li><b>Monitors:</b> 14' 1080p 60Hz</li>
-		  <li><b>Cooling:</b></li>
-        <ul>
-  				<li><b>Thermal Paste:</b> T.G. Kryonaut (GPU & CPU)</li>
-          <li><b>CPU Cooler:</b> Passive with Thermal Grizzly Minus Pad 8</li>
-		    </ul>
+  		<li><b>Raspberry PI 4b</b> With 40mm fan - NAS</li>
+  		<li><b>Raspberry PI 3b+</b> With 30mm fan - WebServer</li>
 	  </ul>
 </details>
 <details>
   <summary style="font-weight: bold;">Tools:</summary>
     <ul>
-  		<li><b>Raspberry PI 3b+</b> With 30mm fan and alu. heatsink with Kryonaut</li>
-  		<li><b>MalDuino Elite</b> 2GB SD Card</li>
+  		<li><b>MalDuino Elite</b> 2GB SD Card
+      <li><b>T450 i7-5600U</b> 12Gb for pen-testing</li>
 	  </ul>
 </details>
