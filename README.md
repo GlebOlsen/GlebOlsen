@@ -90,60 +90,73 @@
   <tr>
     <td><b>Client Software Development:</b></td>
     <td>
-<code><a href = "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img height="35" src="https://docs.microsoft.com/en-us/windows/images/csharp-logo.png"></a></code>
-<code><a href = "https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language"><img height="35" src="https://icon-library.com/images/xaml-icon/xaml-icon-8.jpg"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img height="35" src="icons/csharp.svg"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/Extensible_Application_Markup_Language"><img height="35" src="icons/xaml.svg"></a></code>
+<code><a href = "https://dotnet.microsoft.com/en-us/"><img height="35" src="icons/dotnetcore.svg"></a></code>
     </td>
     <td>
-<code><a href = "https://visualstudio.microsoft.com/vs/enterprise/"><img height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"></a></code>
-<code><a href = "https://www.jetbrains.com/resharper/"><img height="35" src="https://resources.jetbrains.com/storage/products/resharper/img/meta/resharper_logo_300x300.png"></a></code>
+<code><a href = "https://visualstudio.microsoft.com/vs/enterprise/"><img height="35" src="icons/vsstudio.svg"></a></code>
+<code><a href = "https://www.jetbrains.com/resharper/"><img height="35" src="icons/resharper.webp"></a></code>
     </td>
   </tr>
   <tr>
     <td><b>Android Development:</b></td>
     <td> 
-<code><a href = "https://kotlinlang.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"></a></code>
-<code><a href = "https://en.wikipedia.org/wiki/XML"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Extensible_Markup_Language_%28XML%29_logo.svg"></a></code>  
+<code><a href = "https://kotlinlang.org/"><img height="35" src="icons/kotlin.svg"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/XML"><img height="35" src="icons/xml.svg"></a></code>  
     </td>
     <td> 
-<code><a href = "https://developer.android.com/studio"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg"></a></code>
+<code><a href = "https://developer.android.com/studio"><img height="35" src="icons/andstud.svg"></a></code>
     </td>
   </tr>
   <tr>
     <td><b>Machine Learning:</b></td>
     <td> 
-<code><a href = "https://www.python.org/"><img height="35" src="https://www.python.org/static/opengraph-icon-200x200.png"></a></code>
+<code><a href = "https://www.python.org/"><img height="35" src="icons/python.svg"></a></code>
     </td>
     <td>
-<code><a href = "https://www.anaconda.com/products/individual"><img height="35" src="https://www.clipartmax.com/png/middle/234-2342873_anaconda-on-twitter-anaconda-python.png"></a></code>
-<code><a href = "https://jupyter.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"></a></code>
-<code><a href = "https://www.spyder-ide.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"></a></code>
+<code><a href = "https://www.anaconda.com/products/individual"><img height="35" src="icons/anaconda.svg"></a></code>
+<code><a href = "https://jupyter.org/"><img height="35" src="icons/jypiter.svg"></a></code>
+<code><a href = "https://www.spyder-ide.org/"><img height="35" src="icons/spyder.svg"></a></code>
     </td>
   </tr>
   <tr>
     <td><b>Cyber Security:</b></td>
     <td>
-<code><a href = "https://docs.hak5.org/hc/en-us/articles/360010555153-Ducky-Script-the-USB-Rubber-Ducky-language"><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9nMn1DoROY5zOa86x4pQR5PvU-EWVvhDGNeVipNuycbL4oNY87zJY9mBDJ9jxK7DR4wQ&usqp=CAU"></a></code>
+<code><a href = "https://docs.hak5.org/hc/en-us/articles/360010555153-Ducky-Script-the-USB-Rubber-Ducky-language"><img height="35" src="icons/rubberduck.png"></a></code>
     </td>
     <td>
-<code><a href = "https://tox.chat/"><img height="35" src="https://tox.chat/theme/img/icon.svg"></a></code>
-<code><a href = "https://www.autohotkey.com/"><img height="35" src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png"></a></code>
-<code><a href = "https://www.cryptool.org/en/ct1/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ct-logo-big.png/220px-Ct-logo-big.png"></a></code>
-<code><a href = "https://www.cryptool.org/en/ct2/"><img height="35" src="https://www.cryptool.org/assets/site/img/layout/area-icons/ct2-icon.svg"></a></code>
 <code><a href = "https://www.kali.org/"><img height="35" src="icons/kali.svg"></a></code>
-<code><a href = "https://www.wireshark.org/"><img height="35" src="https://www.wireshark.org/assets/images/sflogo.png"></a></code>
-<code><a href = "https://www.virtualbox.org/"><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png"></a></code>
-<code><a href = "https://en.wikipedia.org/wiki/Tor_(network)"><img height="35" src="https://static-00.iconduck.com/assets.00/tor-icon-256x256-kounv0xh.png"></a></code>
-<code><a href = "https://malduino.com/"><img height="35" src="https://pbs.twimg.com/profile_images/1043152576244531203/GusnUDwl_400x400.jpg"></a></code>
+<code><a href = "https://nmap.org/"><img height="35" src="icons/nmap.png"></a></code>
+<code><a href = "https://scapy.net/"><img height="35" src="icons/scapy.png"></a></code>
+<code><a href = "https://www.wireshark.org/"><img height="35" src="icons/wireshark.svg"></a></code>
+<code><a href = "https://hashcat.net/hashcat/"><img height="35" src="icons/hashcat.png"></a></code>
+<code><a href = "https://portswigger.net/burp"><img height="35" src="icons/burp.svg"></a></code>
+<code><a href = "https://www.metasploit.com/"><img height="35" src="icons/metasploit.svg"></a></code>
+<code><a href = "https://www.openssh.com/"><img height="35" src="icons/openssh.png"></a></code>
+<code><a href = "https://www.openssl.org/"><img height="35" src="icons/openssl.png"></a></code>
+<code><a href = "https://qtox.github.io/"><img height="35" src="icons/qtox.svg"></a></code>
+<code><a href = "https://www.autohotkey.com/"><img height="35" src="icons/ahk.png"></a></code>
+<code><a href = "https://www.cryptool.org/en/ct1/"><img height="35" src="icons/crypt1.png"></a></code>
+<code><a href = "https://www.cryptool.org/en/ct2/"><img height="35" src="icons/crypt2.png"></a></code>
+<code><a href = "https://www.vmware.com/"><img height="35" src="icons/vmware.svg"></a></code>
+<code><a href = "https://www.virtualbox.org/"><img height="35" src="icons/vbox.jpeg"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/Tor_(network)"><img height="35" src="icons/tor.svg"></a></code>
+<code><a href = "https://malduino.com/"><img height="35" src="icons/malduino.jpg"></a></code>
+<code><a href = "https://www.virustotal.com/gui/home/upload"><img height="35" src="icons/virustotal.svg"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/Cain_and_Abel_(software)"><img height="35" src="icons/cainabel.jpg"></a></code>
+<!-- <code><a href = ""><img height="35" src=""></a></code> -->
     </td>
   </tr>
   <tr>
     <td><b>IOT Development:</b></td>
     <td>
-<code><a href = "https://en.wikipedia.org/wiki/C_(programming_language)"><img height="35" src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png"></a></code>
+<code><a href = "https://en.wikipedia.org/wiki/C_(programming_language)"><img height="35" src="icons/C.svg"></a></code>
     </td>
     <td> 
-<code><a href = "https://www.arduino.cc/"><img height="35" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"></a></code>
-<code><a href = "https://www.raspberrypi.org/"><img height="35" src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png"></a></code>
+<code><a href = "https://www.arduino.cc/"><img height="35" src="icons/arduino.svg"></a></code>
+    <code><a href = "https://www.espressif.com/en/products/socs/esp32"><img height="35" src="icons/espressif.svg"></a></code>
+<code><a href = "https://www.raspberrypi.org/"><img height="35" src="icons/rpi.png"></a></code>
     </td>
   </tr>
 </table>
