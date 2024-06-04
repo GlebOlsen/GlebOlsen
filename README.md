@@ -2,7 +2,7 @@
 <h2>About me:</h2>
 <img style="max-width: 100%; display: inline-block; border-radius: 10px !important; box-shadow: 0 0 2px 2px cyan !important;" align="right" alt="GIF" src="pics/GITS-typing.gif" width="400"/>
 
-- ⏳ Right now: I'm studying IT-Security at Kea and working part time at Bonnier Publications.
+- ⏳ Right now: I'm studying IT-Security at Kea.
 - 📖 2024 goals: 
   * Make my own blogging website.
   * Create NAS
