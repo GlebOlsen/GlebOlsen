@@ -7,7 +7,7 @@
   * Make my own blogging website.
   * Create NAS
 - 🚀 My goal is: To be one of the best programmers and help achieve big goals in the software industry!
-- 💿 OS of choice: Debian - i3-wm
+- 💿 OS of choice: Debian - i3-wm -> [Linux Config Files](https://github.com/GlebOlsen/LinuxConfFiles)
 - 📝 Favorite editor: Micro, Neovim and VSCode.
 <br>
 
