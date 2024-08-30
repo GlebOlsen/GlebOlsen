@@ -4,7 +4,7 @@
 
 - ⏳ Right now: I'm studying IT-Security at Kea.
 - 📖 2024 goals: 
-  * ~~Make my own blogging website.~~✅
+  * <s>Make my own blogging website.</s>✅
   * Create NAS
 - 🚀 My goal is: To be one of the best programmers and help achieve big goals in the software industry!
 - 💿 OS of choice: Debian - i3-wm -> [🐧 Config Files](https://github.com/GlebOlsen/LinuxConfFiles)
