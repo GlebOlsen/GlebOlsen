@@ -8,7 +8,7 @@
   * Create NAS
 - 🚀 My goal is: To be one of the best programmers and help achieve big goals in the software industry!
 - 💿 OS of choice: Debian - i3-wm -> [🐧 Config Files](https://github.com/GlebOlsen/LinuxConfFiles)
-- 📝 Favorite editor: Neovim and VSCode.
+- 📝 Favorite editor: [🧬 Helix 🧬](https://helix-editor.com/) and VSCode.
 <br>
 
 ## Languages and tools:
