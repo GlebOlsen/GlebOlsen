@@ -3,12 +3,15 @@
 <img style="max-width: 100%; display: inline-block; border-radius: 10px !important; box-shadow: 0 0 2px 2px cyan !important;" align="right" alt="GIF" src="pics/GITS-typing.gif" width="400"/>
 
 - ⏳ Right now: I'm studying IT-Security at Kea.
-- 📖 2024 goals: 
-  * <s>Make my own blogging website.</s>✅
-  * Create NAS
+- 📖 2025 goals: 
+  * Create NAS.
+  * Start making blogs on my website.
 - 🚀 My goal is: To be one of the best programmers and help achieve big goals in the software industry!
-- 💿 OS of choice: Arch - i3-wm -> [🐧 Config Files](https://github.com/GlebOlsen/LinuxConfFiles)
-- 📝 Favorite editor: [🧬 Helix 🧬](https://helix-editor.com/) and VSCode.
+- 💿 OS of choice: Arch/Deb/NixOS - i3-wm -> [🐧 Config Files](https://github.com/GlebOlsen/LinuxConfFiles)
+- 📝 Favorite editors: 
+	* VSCode
+ 	* [µ Micro µ](https://micro-editor.github.io/)
+  	* [🧬 Helix 🧬](https://helix-editor.com/)
 <br>
 
 ## Languages and tools:
@@ -159,7 +162,7 @@
     </td>
 </tr>
 </table>
-<p align="center">Yes I have used all of them. <u><b>Each for at least 1 year min.</b></u> (exclude NixOS only used for 1 month).</p>
+<p align="center">Yes I have used all of them. <u><b>Each for at least 2 year min.</b></u> (exclude NixOS only used for 2 months).</p>
 
 ## My hardware and Tools:
 <details>
@@ -169,9 +172,8 @@
   		<li><b>Processor/CPU:</b> R9 5900X</li>
   		<li><b>Graphics Card/GPU:</b></li>
         <ol>
-  			  <li>GTX 1660 Ti</li>
-  				<li>GTX 750 Ti</li>
-			  </ol>
+  			  <li>RX 5700 XT 3 fans</li>
+	</ol>
   		<li><b>Memory/Ram:</b> 48GB 3600Mhz 16cl</li>
       <li><b>Storage:</b> Samsung PM9A1: R6500MB W4900MB</li>
       <li><b>Extra Storage:</b> 500GB SSD, 120GB SSD, 500GB HDD</li>
