@@ -161,7 +161,7 @@
     </td>
 </tr>
 </table>
-<p align="center">Yes I have used all of them. <u><b>Each for at least 2 year min.</b></u> (exclude NixOS only used for 2 months).</p>
+<p align="center">Yes I have used all of them. <u><b>Each for at least 3 year min.</b></u> (exclude NixOS only used for 2 months).</p>
 
 ## My hardware and Tools:
 <details>
@@ -171,11 +171,11 @@
   		<li><b>Processor/CPU:</b> R9 5900X</li>
   		<li><b>Graphics Card/GPU:</b></li>
         <ol>
-  			  <li>RX 5700 XT 3 fans</li>
+  			  <li>RX 5700 XT Red Devil 3 fans</li>
 	</ol>
   		<li><b>Memory/Ram:</b> 48GB 3600Mhz 16cl</li>
       <li><b>Storage:</b> Samsung PM9A1: R6500MB W4900MB</li>
-      <li><b>Extra Storage:</b> 500GB SSD, 120GB SSD, 500GB HDD</li>
+      <li><b>Extra Storage:</b> 500GB SSD, 512GB SDD</li>
       <li><b>Monitors:</b></li>
 			  <ol>
   				<li>32' 4K 60Hz</li>
