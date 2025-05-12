@@ -6,12 +6,11 @@
 - 📖 2025 goals: 
   * Create NAS.
   * Start making blogs on my website.
+  * Make my own app!
 - 🚀 My goal is: To be one of the best programmers and help achieve big goals in the software industry!
-- 💿 OS of choice: Arch/Deb/NixOS - i3-wm -> [🐧 Config Files](https://github.com/GlebOlsen/LinuxConfFiles)
+- 💿 OS of choice: Arch/NixOS - i3-wm -> [🐧 Config Files](https://github.com/GlebOlsen/LinuxConfFiles)
 - 📝 Favorite editors: 
-	* VSCode
- 	* [µ Micro µ](https://micro-editor.github.io/)
-  	* [🧬 Helix 🧬](https://helix-editor.com/)
+  [🧬 Helix 🧬](https://helix-editor.com/) || [µ Micro µ](https://micro-editor.github.io/) || [z Zed z](https://zed.dev/) || VSCode
 <br>
 
 ## Languages and tools:
@@ -184,7 +183,7 @@
 			  </ol>
 		  <li><b>Cooling:</b></li>
         <ul>
-  				<li><b>Thermal Paste:</b> T.G. Kryonaut (2*GPU & CPU)</li>
+  				<li><b>Thermal Paste:</b> T.G. Kryonaut (GPU & CPU)</li>
   				<li><b>Fans:</b> 4x Arctic BioniX P140 + 1x Pure Wings 2 140mm</li>
           <li><b>CPU Cooler:</b> NH-D15</li>
 		    </ul>
