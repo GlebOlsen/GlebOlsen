@@ -38,7 +38,7 @@
     <td>
 <a href="https://code.visualstudio.com/"><img src="icons/vscode.svg" alt="VSCode" width="35"/></a>
 <a href="https://git-scm.com/"><img src="icons/git.svg" alt="Git" width="35"/></a>
-<a href="https://en.wikipedia.org/wiki/Node.js"><img src="icons/node.svg" alt="Node.js" z="35"/></a>
+<a href="https://en.wikipedia.org/wiki/Node.js"><img src="icons/node.svg" alt="Node.js" width="35"/></a>
 <a href="https://en.wikipedia.org/wiki/Npm_(software)"><img src="icons/npm.svg" alt="npm" width="35"/></a>
 <a href="https://pnpm.io/"><img src="icons/pnpm.svg" alt="pnpm" width="35"/></a>
 <a href="https://nuxtjs.org/"><img src="icons/nuxt.svg" alt="Nuxt.js" width="35"/></a>
