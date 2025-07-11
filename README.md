@@ -4,7 +4,7 @@
 
 - ⏳ Right now: I'm studying IT-Security at Kea.
 - 📖 2025 goals:
-  - Create NAS.
+  - Create NAS. [x]
   - Start making blogs on my website.
   - Make my own app!
 - 🚀 My goal is: To be one of the best programmers and help achieve big goals in the software industry!
