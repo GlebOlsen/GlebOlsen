@@ -162,7 +162,7 @@
     </td>
 </tr>
 </table>
-<p align="center">Yes I have used all of them. <u><b>Each for at least 3 year min.</b></u> (exclude NixOS only used for 3 months).</p>
+<p align="center">Yesk, I have used all of them.</p>
 
 ## My hardware and Tools:
 
