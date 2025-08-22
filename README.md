@@ -162,7 +162,7 @@
     </td>
 </tr>
 </table>
-<p align="center">Yesk, I have used all of them. 4+ Years of experience.</p>
+<p align="center">Yesk, I have used all of them. <strong>4+ Years of experience.</strong></p>
 
 ## My hardware and Tools:
 
