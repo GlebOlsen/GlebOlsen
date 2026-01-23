@@ -3,10 +3,10 @@
 <img style="max-width: 100%; display: inline-block; border-radius: 10px !important; box-shadow: 0 0 2px 2px cyan !important;" align="right" alt="GIF" src="pics/GITS-typing.gif" width="400"/>
 
 - ⏳ Right now: I'm studying IT-Security at Kea.
-- 📖 2025 goals:
-  - Create NAS. [✔]
+- 📖 2026 goals:
   - Start making blogs on my website.
   - Make my own app!
+  - Finish my degree lol..
 - 🚀 My goal is: To be one of the best programmers and help achieve big goals in the software industry!
 - 💿 OS of choice: Arch/NixOS - i3-wm -> [🐧 Config Files](https://github.com/GlebOlsen/LinuxConfFiles)
 - 📝 Favorite editors:
