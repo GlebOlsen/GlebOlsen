@@ -4,8 +4,8 @@
 
 - ⏳ Right now: I'm studying Comp/Sci at RUC.
 - 📖 2026 goals:
-  - Start making blogs on my website.
-  - Make my own app!
+  - Start making blogs on my website. - Done
+  - Make my own app! - Done
   - Finish my degree lol..
 - 🚀 My goal is: To be one of the best programmers and help achieve big goals in the software industry!
 - 💿 OS of choice: Arch/NixOS - i3-wm -> [🐧 Config Files](https://github.com/GlebOlsen/LinuxConfFiles)
@@ -162,7 +162,7 @@
     </td>
 </tr>
 </table>
-<p align="center">Yes, I have used all of them. <strong>4+ Years of experience.</strong></p>
+<p align="center">Yes, I have used all of them. <strong>5+ Years of experience.</strong></p>
 
 ## My hardware and Tools:
 
