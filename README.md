@@ -3,14 +3,14 @@
 <img style="max-width: 100%; display: inline-block; border-radius: 10px !important; box-shadow: 0 0 2px 2px cyan !important;" align="right" alt="GIF" src="pics/GITS-typing.gif" width="400"/>
 
 - ⏳ Right now: I'm studying Comp/Sci at RUC.
-- 📖 2026 goals:
+- 📖 2026-2027 goals:
   - Start making blogs on my website. - Done
   - Make my own app! - Done
   - Finish my degree lol..
 - 🚀 My goal is: To be one of the best programmers and help achieve big goals in the software industry!
-- 💿 OS of choice: Arch/NixOS - i3-wm -> [🐧 Config Files](https://github.com/GlebOlsen/LinuxConfFiles)
+- 💿 OS of choice: NixOS - (Patched) Sway -> [🐧 Config Files](https://github.com/GlebOlsen/LinuxConfFiles)
 - 📝 Favorite editors:
-  [🧬 Helix 🧬](https://helix-editor.com/) || [µ Micro µ](https://micro-editor.github.io/) || [z Zed z](https://zed.dev/) || VSCode
+  [>_ Neovim >_](https://neovim.io/) || [🧬 Helix 🧬](https://helix-editor.com/) || [µ Micro µ](https://micro-editor.github.io/)
   <br>
 
 ## Languages and tools:
