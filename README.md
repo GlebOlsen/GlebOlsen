@@ -159,6 +159,7 @@
 <a href="https://nixos.org/"><img src="icons/nixos.svg" alt="NixOS" width="35"/></a>
 <a href="https://www.raspberrypi.com/software/"><img src="icons/rpi.png" alt="Raspberry Pi OS" width="35"/></a>
 <a href="https://ubuntu.com/"><img src="icons/ubuntu.svg" alt="Ubuntu" width="35"/></a>
+<a href="https://alpinelinux.org/"><img src="icons/alpine.svg" alt="Alpine Linux" width="35"/></a>
     </td>
 </tr>
 </table>
@@ -169,7 +170,7 @@
 <details>
   <summary style="font-weight: bold;">Linux Desktop:</summary>
     <ul>
-      <li><b>OS:</b> Arch + i3</li>
+      <li><b>OS:</b> NixOS + Sway</li>
   		<li><b>Processor/CPU:</b> R9 5900X</li>
   		<li><b>Graphics Card/GPU:</b></li>
         <ol>
@@ -181,6 +182,7 @@
       <li><b>Monitors:</b></li>
 			  <ol>
   				<li>32' 4K 60Hz</li>
+          <li>24' 1080p 60Hz</li>
           <li>24' 1080p 60Hz</li>
 			  </ol>
 		  <li><b>Cooling:</b></li>
@@ -201,13 +203,14 @@
   <summary style="font-weight: bold;">Home servers:</summary>
     <ul>
   		<li><b>Raspberry PI 4b</b> With 40mm fan - NAS</li>
-  		<li><b>Raspberry PI 3b+</b> With 30mm fan - WebServer</li>
+  		<li><b>Raspberry PI 3b+</b> With 30mm fan - general server</li>
+  		<li><b>Acer Swift SF114-32</b> N5000 4Gb - WebServer</li>
+  		<li><b>T450s i7-5600U</b> 12Gb - NixOS deploy test server</li>
 	  </ul>
 </details>
 <details>
   <summary style="font-weight: bold;">Tools:</summary>
     <ul>
-  		<li><b>MalDuino Elite</b> 2GB SD Card
-      <li><b>T450 i7-5600U</b> 12Gb for pen-testing</li>
+  		<li><b>MalDuino Elite</b> 2GB SD Card</li>
 	  </ul>
 </details>
