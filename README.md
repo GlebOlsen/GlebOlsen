@@ -8,7 +8,7 @@
   - Make my own app! - Done
   - Finish my degree lol..
 - 🚀 My goal is: To be one of the best programmers and help achieve big goals in the software industry!
-- 💿 OS of choice: NixOS - (Patched) Sway -> [🐧 Config Files](https://github.com/GlebOlsen/LinuxConfFiles)
+- 💿 OS of choice: NixOS - Sway(Patched) -> [🐧 Config Files](https://github.com/GlebOlsen/LinuxConfFiles)
 - 📝 Favorite editors:
   [>_ Neovim >_](https://neovim.io/) || [🧬 Helix 🧬](https://helix-editor.com/) || [µ Micro µ](https://micro-editor.github.io/)
   <br>
